@@ -6,6 +6,7 @@
   "namespace": "@symtend",
   "license": "MIT",
   "files": ["src/**/*"],
+  "main": "./src/index.ts",
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint ./src",

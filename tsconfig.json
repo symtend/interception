@@ -3,9 +3,10 @@
     "target": "es5",
     "module": "commonjs",
     "declaration": true,
+    "rootDir": "./src",
     "outDir": "./dist",
     "forceConsistentCasingInFileNames": true,
-    "strict": true
+    "strict": true,
   },
   "include": ["src"],
   "exclude": ["./node_modules"]
