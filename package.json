@@ -5,6 +5,7 @@
   "author": "powd",
   "namespace": "@symtend",
   "license": "MIT",
+  "type": "module",
   "files": [
     "src/**/*"
   ],
