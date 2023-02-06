@@ -1,6 +1,6 @@
 {
   "name": "@symtend/interception",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "An interception library",
   "author": "powd",
   "namespace": "@symtend",
