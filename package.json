@@ -1,12 +1,17 @@
 {
   "name": "@symtend/interception",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "An interception library",
   "author": "powd",
   "namespace": "@symtend",
   "license": "MIT",
   "type": "module",
-  "files": ["dist", "LICENSE", "README.md", "package.json"],
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
   "main": "./dist/index.ts",
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\"",
